@@ -3,9 +3,6 @@ CRUD_I
 
 Aplicativo simples de cadastro de clientes
 
-
-Estrutura principal.
-
 ## Estrutura principal
 
 ```stxt
