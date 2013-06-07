@@ -1,7 +1,7 @@
 CRUD_I
 ======
 
-Aplicativo simples de cadastro de clientes
+Aplicativo simples para cadastro de clientes
 
 ## Estrutura principal
 

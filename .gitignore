@@ -4,3 +4,4 @@
 *.jar
 *.war
 *.ear
+/CRUD_I/nbproject/private/
